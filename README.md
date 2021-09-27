@@ -1,7 +1,7 @@
 # About
 This is my custom version of the Renpy Front Page.
 
-* The "Launch Project" button is moved to the top right of the GUI. This is done so that the window can be dragged to the bottom left of the montitor in a way that only the "Launch Project" button is visible.
+* The "Launch Project" button is moved to the top right of the GUI. This is done so that the window can be dragged to the bottom left of the monitor in a way that only the "Launch Project" button is visible.
 
 * Skipping is disabled. Skipping has no function in the launcher, and leaving it enables results in a usueless graphic when the CTRL key is pressed.
 
