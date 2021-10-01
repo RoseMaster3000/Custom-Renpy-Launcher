@@ -1,3 +1,7 @@
+# UPDATE
+After learning renpy can be launched via the terminal, the project has been abaondoned.
+I now just use a bash script to launch my games.
+
 # About
 This is my custom version of the Renpy Front Page.
 
